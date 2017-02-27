@@ -12,5 +12,5 @@ The outut indicates the load over the last 1, 5 and 15 minutes as well as the me
 - a value greater than 1 indicates that there are other tasks waiting in line to execute
 - a value smaller than 1 indicates free computational resources
 
-To setup your machines to be monitored, open the script and replace <NameX> after "getLoad" with the name of the machine. Have one line for each machine.
+To setup your machines to be monitored, open the script and replace "NameX" after "getLoad" with the name of the machine. Have one line for each machine.
 
